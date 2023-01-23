@@ -14,14 +14,14 @@
             "settings": {
                 "clients": [
                     {
-                        "password": "123"
+                        "password": "bc81b68f398e4dcfbf0a012b87ae919d"
                     }
                 ]
             },
             "streamSettings": {
                 "network": "ws",
                 "wsSettings": {
-                    "path": "qwe"
+                    "path": "bc81b68f398e4dcfbf0a012b87ae919d"
                 }
             },
             "sniffing": {
